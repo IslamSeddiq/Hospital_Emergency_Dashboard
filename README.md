@@ -25,7 +25,7 @@ I'm a Junior Data Analyst with a passion for turning raw data into actionable in
 ---
 
 ## 🛠️ Tools & Technologies
-- **Power BI**
+- **Power BI(visualization)**
 - **Excel(raw data source)**
 - **Power Query(for data cleaning)**
 - **DAX (custom measures and columns)**
