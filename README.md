@@ -12,13 +12,13 @@ I'm a Junior Data Analyst with a passion for turning raw data into actionable in
 ---
 
 ### 🔍 Key Features
-- Dynamic filtering by Year & Month 📅
+- Dynamic filtering by Year & Month
 - **Monthly View** highlighting admissions, patient satisfaction score, referral counts, and wait times
 - **Consolidated View** to analyze trends across multiple months
-- **Patient demographics insights** (Age, Gender, Race) 👥
+- **Patient demographics insights** (Age, Gender, Race)
 - Admission status analysis and department referrals breakdown
-- Patient flow monitoring: % seen within 30 minutes ⏱️
-- Heatmap of Patients by Day & Hour to uncover peak periods ⏰
+- Patient flow monitoring: % seen within 30 minutes
+- Heatmap of Patients by Day & Hour to uncover peak periods
 - Detailed patient-level records table for deeper drill-down
 - Clean UI with structured navigation between report sections
 
@@ -48,7 +48,7 @@ This Power BI dashboard analyzes **emergency room performance and patient experi
 
 ---
 
-## Get in Touch 📬
+## Get in Touch
 - **[Phone Number]**(20 1201991890)
 - **[Personal Website / Blog]**(https://www.canva.com/design/DAGeDwn60FY/xY0llUzQWp5yekWU_03X4w/edit?utm_content=DAGeDwn60FY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - **[LinkedIn]**(https://www.linkedin.com/in/islamseddiq/)
